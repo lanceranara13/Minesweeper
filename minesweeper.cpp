@@ -5,7 +5,7 @@ using namespace std;
 //
 //  User would input the size of board
 //  User would input the amount of bombs in the board
-//
+//  Create a new board that is Blank that will serve as play area
 //
 //
 //
